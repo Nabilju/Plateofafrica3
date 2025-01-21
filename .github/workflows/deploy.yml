@@ -40,5 +40,5 @@ jobs:
           project: "nabilju-plateofafri-22"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
